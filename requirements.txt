@@ -12,6 +12,7 @@ Flask==3.1.0
 Flask-Cors==5.0.0
 fonttools==4.58.2
 fsspec==2025.5.1
+gunicorn==23.0.0
 ipykernel==6.29.5
 ipython==9.3.0
 ipython_pygments_lexers==1.1.1
